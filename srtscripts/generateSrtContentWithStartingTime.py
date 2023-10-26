@@ -61,6 +61,7 @@ for i, lyric in enumerate(lyrics):
     clear_screen()
     
     # Display current and next romanized line
+    print(f"Index: {start_index}")
     print(f"Current line: {romanized[i]}")
     if i + 1 < len(romanized):
         print(f"Next line: {romanized[i+1]}")
@@ -75,10 +76,11 @@ for i, lyric in enumerate(lyrics):
     caption_start_time = time.time() - reference_time + initial_offset
 
     clear_screen()
+    print(f"Index: {start_index}")
     print(f"Current line: {romanized[i]}")
     if i + 1 < len(romanized):
         print(f"Next line: {romanized[i+1]}")
-    print("\nPress SPACE to END the caption.")
+    print("\033[91m{}\033[0m".format("\nPress SPACE to END the caption."))
     keyboard.wait('space')
     caption_end_time = time.time() - reference_time + initial_offset
 

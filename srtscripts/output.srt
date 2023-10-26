@@ -1,212 +1,212 @@
-37
-00:07:31,500 --> 00:07:33,267
+122
+00:16:38,500 --> 00:16:38,883
 I’ve thought about it, but I still don’t understand
 
-38
-00:07:33,955 --> 00:07:35,467
+123
+00:16:39,211 --> 00:16:39,403
 Under the blue sky, I waited for you
 
-39
-00:07:36,052 --> 00:07:38,692
+124
+00:16:39,579 --> 00:16:39,963
 On that breezy afternoon, my imagination escaped the confines of the day
 
-40
-00:07:39,036 --> 00:07:41,076
+125
+00:16:40,315 --> 00:16:40,723
 Hey, where do I go from here?
 
-41
-00:07:41,636 --> 00:07:43,091
+126
+00:16:41,123 --> 00:16:41,467
 No one has told me how to proceed
 
-42
-00:07:43,715 --> 00:07:46,724
+127
+00:16:41,843 --> 00:16:42,170
 I looked into your eyes and without a word I walked away
 
-43
-00:08:03,316 --> 00:08:04,755
+128
+00:16:42,555 --> 00:16:42,947
 I’ve thought about it, but I still don’t understand
 
-44
-00:08:05,219 --> 00:08:06,660
+129
+00:16:46,690 --> 00:16:46,995
 Youth is so boring
 
-45
-00:08:07,148 --> 00:08:10,419
+130
+00:16:47,203 --> 00:16:47,716
 I tried to give up piano, but I can’t break the habit of playing on my desk*
 
-46
-00:08:10,748 --> 00:08:12,500
+131
+00:16:47,748 --> 00:16:47,779
 Hey, what will I do in the future?
 
-47
-00:08:12,851 --> 00:08:14,411
+132
+00:16:47,811 --> 00:16:47,842
 It shouldn’t be music, right?
 
-48
-00:08:16,596 --> 00:08:17,355
+133
+00:16:47,872 --> 00:16:47,904
 Don’t worry
 
-49
-00:08:17,987 --> 00:08:25,779
+134
+00:16:47,935 --> 00:16:47,982
 Even if I plucked a single string in my heart
 
-50
-00:08:26,187 --> 00:08:29,172
+135
+00:16:48,012 --> 00:16:48,045
 No matter what I did, it wouldn’t disappear, even now, so
 
-51
-00:08:29,691 --> 00:08:32,764
+136
+00:16:48,075 --> 00:16:48,106
 Hey, I still remember
 
-52
-00:08:33,507 --> 00:08:34,523
+137
+00:16:48,138 --> 00:16:48,169
 I’m mistaken
 
-53
-00:08:34,875 --> 00:08:36,724
+138
+00:16:48,200 --> 00:16:48,231
 I don’t understand, I don’t care
 
-54
-00:08:37,475 --> 00:08:41,188
+139
+00:16:48,277 --> 00:16:48,308
 About all you humans or the truth or love or the world or pain or life
 
-55
-00:08:41,524 --> 00:08:44,668
+140
+00:16:48,338 --> 00:16:48,370
 Wanting to know what’s right or wrong is just a self-preservation instinct
 
-56
-00:08:45,228 --> 00:08:47,468
+141
+00:16:48,401 --> 00:16:48,432
 It’s your fault that I thought that
 
-57
-00:09:03,796 --> 00:09:07,219
+142
+00:16:48,462 --> 00:16:48,509
 I’ve thought about it, but I still don’t understand why I truly don’t want to get older
 
-58
-00:09:07,741 --> 00:09:11,204
+143
+00:16:48,540 --> 00:16:48,569
 Just thinking “Someday I’m going to die” makes my chest feel hollow
 
-59
-00:09:11,691 --> 00:09:13,155
+144
+00:16:48,601 --> 00:16:48,633
 “What will I do in the future?”
 
-60
-00:09:13,619 --> 00:09:18,699
+145
+00:16:48,664 --> 00:16:48,695
 When I grew up I understood That I’m not going to do anything at all
 
-61
-00:09:19,244 --> 00:09:28,467
+146
+00:16:48,727 --> 00:16:48,774
 How do I explain why I hate people who put on happy faces?
 
-62
-00:09:28,996 --> 00:09:35,868
+147
+00:16:48,804 --> 00:16:48,837
 It’s an inferiority complex haunting my unsatisfied mind like a ghost
 
-63
-00:09:36,411 --> 00:09:37,332
+148
+00:16:48,867 --> 00:16:48,898
 I’m not mistaken
 
-64
-00:09:37,683 --> 00:09:39,619
+149
+00:16:48,929 --> 00:16:48,959
 Hey, with all your differences, you all are human
 
-65
-00:09:40,324 --> 00:09:44,068
+150
+00:16:49,005 --> 00:16:49,036
 When you don’t have love or salvation or kindness or a foundation, it feels bad
 
-66
-00:09:44,611 --> 00:09:47,467
+151
+00:16:49,067 --> 00:16:49,098
 Feeling pain at something like a love song is a self-preservation instinct
 
-67
-00:09:48,451 --> 00:09:50,683
+152
+00:16:49,129 --> 00:16:49,160
 Do I really not care? It’s your fault
 
-68
-00:10:06,931 --> 00:10:08,339
+153
+00:16:49,191 --> 00:16:49,224
 I’ve thought about it, but I still don’t understand
 
-69
-00:10:08,851 --> 00:10:10,348
+154
+00:16:49,255 --> 00:16:49,302
 Why just living is painful
 
-70
-00:10:10,844 --> 00:10:12,404
+155
+00:16:49,333 --> 00:16:49,365
 Why you can’t make a living from something like music
 
-71
-00:10:12,884 --> 00:10:14,371
+156
+00:16:49,395 --> 00:16:49,427
 I don’t care if the lyrics or whatever are lazily done
 
-72
-00:10:18,132 --> 00:10:19,235
+157
+00:16:49,457 --> 00:16:49,488
 I don’t care about anything
 
-73
-00:10:21,924 --> 00:10:23,412
+158
+00:16:49,519 --> 00:16:49,565
 I’m probably not mistaken
 
-74
-00:10:26,076 --> 00:10:27,435
+159
+00:16:49,596 --> 00:16:49,627
 I’m sure I’m not mistaken
 
-75
-00:10:30,476 --> 00:10:31,579
+160
+00:16:49,658 --> 00:16:49,689
 I’m sure I’m not mistaken
 
-76
-00:10:43,419 --> 00:10:44,812
+161
+00:16:49,720 --> 00:16:49,751
 I’m mistaken, I understand
 
-77
-00:10:45,219 --> 00:10:46,899
+162
+00:16:49,797 --> 00:16:49,828
 I don’t care
 
-78
-00:10:47,516 --> 00:10:51,316
+163
+00:16:49,859 --> 00:16:49,890
 About all you humans or the truth or love or salvation or kindness or life
 
-79
-00:10:51,651 --> 00:10:54,684
+164
+00:16:49,922 --> 00:16:49,951
 Not being able to give the right answer is a self-preservation instinct
 
-80
-00:10:55,467 --> 00:10:57,588
+165
+00:16:49,982 --> 00:16:50,027
 I don’t care, it’s your fault
 
-81
-00:11:16,235 --> 00:11:17,716
+166
+00:16:50,058 --> 00:16:50,091
 Even I had faith in something once
 
-82
-00:11:18,356 --> 00:11:19,515
+167
+00:16:50,121 --> 00:16:50,152
 Now the feeling is nothing but garbage
 
-83
-00:11:20,187 --> 00:11:21,220
+168
+00:16:50,183 --> 00:16:50,214
 I wrote to you so many times
 
-84
-00:11:21,764 --> 00:11:23,931
+169
+00:16:50,246 --> 00:16:50,277
 I didn’t care about whether I’d be rich and famous
 
-85
-00:11:25,484 --> 00:11:25,868
+170
+00:16:50,323 --> 00:16:50,355
 It’s true,
 
-86
-00:11:25,948 --> 00:11:26,988
+171
+00:16:50,386 --> 00:16:50,416
 it’s really true,
 
-87
-00:11:28,683 --> 00:11:30,419
+172
+00:16:50,447 --> 00:16:50,478
 that’s how it was back then
 
-88
-00:11:30,987 --> 00:11:33,447
+173
+00:16:50,510 --> 00:16:50,555
 That’s why I
 
-89
-00:11:35,291 --> 00:11:38,380
+174
+00:16:50,586 --> 00:16:50,618
 That’s why I gave up on music
 
