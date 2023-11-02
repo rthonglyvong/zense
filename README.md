@@ -1,5 +1,7 @@
 # zense
 
+Combined.srt is the full srt file for the live.
+
 Usage:
 To start processing
 python .\generateSrtContentWithStartingTime.py '.\songs\Say It'
