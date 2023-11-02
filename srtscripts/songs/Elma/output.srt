@@ -1,144 +1,144 @@
-500
-01:03:38,000 --> 01:03:41,687
+550
+01:03:38,000 --> 01:03:41,737
 I know I'm a liar, I admit it
 
-501
-01:03:42,000 --> 01:03:45,503
+551
+01:03:42,000 --> 01:03:45,553
 still, still Elma it hurts
 
-502
-01:03:46,071 --> 01:03:49,199
+552
+01:03:46,071 --> 01:03:49,249
 even though it's time to say goodbye
 
-503
-01:03:49,479 --> 01:03:55,111
+553
+01:03:49,479 --> 01:03:55,161
 I'll sing until the darkening night arrives
 
-504
-01:04:10,824 --> 01:04:15,215
+554
+01:04:10,824 --> 01:04:15,265
 Me and Elma, in the morning sunlight shining through the trees
 
-505
-01:04:15,527 --> 01:04:18,295
+555
+01:04:15,527 --> 01:04:18,345
 are you still sleepy?
 
-506
-01:04:18,711 --> 01:04:24,087
+556
+01:04:18,711 --> 01:04:24,137
 as the early summer begins, we approach the forest of May
 
-507
-01:04:27,055 --> 01:04:31,831
+557
+01:04:27,055 --> 01:04:31,881
 Walking with the dew from the flowers on our faces
 
-508
-01:04:32,087 --> 01:04:34,943
+558
+01:04:32,087 --> 01:04:34,993
 see, they're like tear drops
 
-509
-01:04:35,255 --> 01:04:38,055
+559
+01:04:35,255 --> 01:04:38,105
 Let's yawn like this
 
-510
-01:04:38,391 --> 01:04:42,895
+560
+01:04:38,391 --> 01:04:42,945
 if you want we can even sit in a chair
 
-511
-01:04:43,551 --> 01:04:47,559
+561
+01:04:43,551 --> 01:04:47,609
 There's nothing that can't be forgiven
 
-512
-01:04:47,887 --> 01:04:51,831
+562
+01:04:47,887 --> 01:04:51,881
 you can become kinder
 
-513
-01:04:53,831 --> 01:05:03,151
+563
+01:04:53,831 --> 01:05:03,201
 Like this, in some far away country
 
-514
-01:05:04,255 --> 01:05:08,951
+564
+01:05:04,255 --> 01:05:08,999
 lying sprawled out in a shallow summer
 
-515
-01:05:10,199 --> 01:05:19,158
+565
+01:05:10,199 --> 01:05:19,208
 without shedding tears or saying words
 
-516
-01:05:20,623 --> 01:05:25,495
+566
+01:05:20,623 --> 01:05:25,545
 without simply knowing the deepness of the night
 
-517
-01:05:27,247 --> 01:05:30,831
+567
+01:05:27,247 --> 01:05:30,881
 I know I'm a liar, I admit it
 
-518
-01:05:31,183 --> 01:05:34,919
+568
+01:05:31,183 --> 01:05:34,969
 still, still Elma it hurts
 
-519
-01:05:35,343 --> 01:05:38,239
+569
+01:05:35,343 --> 01:05:38,289
 even though it's time to say goodbye
 
-520
-01:05:38,567 --> 01:05:44,575
+570
+01:05:38,567 --> 01:05:44,625
 I'll sing until the darkening night arrives
 
-521
-01:06:00,112 --> 01:06:07,816
+571
+01:06:00,112 --> 01:06:07,866
 if you don't see difficult or painful things you won't understand them
 
-522
-01:06:08,327 --> 01:06:11,999
+572
+01:06:08,327 --> 01:06:11,949
 with your eyes closed you ran away
 
-523
-01:06:12,367 --> 01:06:15,951
+573
+01:06:12,367 --> 01:06:15,999
 walking a moonlit path
 
-524
-01:06:16,503 --> 01:06:20,232
+574
+01:06:16,503 --> 01:06:20,282
 cramped rooms, cold nights
 
-525
-01:06:20,535 --> 01:06:24,360
+575
+01:06:20,535 --> 01:06:24,410
 sleepy afternoons, lonely mornings
 
-526
-01:06:24,878 --> 01:06:32,038
+576
+01:06:24,878 --> 01:06:32,188
 in the words of farewell, I'm looking at your face
 
-527
-01:06:37,343 --> 01:06:46,343
+577
+01:06:37,343 --> 01:06:46,393
 Like this, in some far away country
 
-528
-01:06:47,807 --> 01:06:53,023
+578
+01:06:47,807 --> 01:06:53,173
 lying sprawled out in a shallow summer
 
-529
-01:06:54,319 --> 01:07:03,559
+579
+01:06:54,319 --> 01:07:03,609
 without shedding tears or saying words
 
-530
-01:07:04,503 --> 01:07:09,279
+580
+01:07:04,503 --> 01:07:09,329
 simply looking at the blueness of the sky
 
-531
-01:07:12,727 --> 01:07:17,823
+581
+01:07:12,727 --> 01:07:17,873
 simply not knowing of the ending between us
 
-532
-01:07:19,527 --> 01:07:23,119
+582
+01:07:19,527 --> 01:07:23,169
 I know I'm a liar, I admit it
 
-533
-01:07:23,375 --> 01:07:26,982
+583
+01:07:23,375 --> 01:07:26,999
 still, still Elma it hurts
 
-534
-01:07:27,463 --> 01:07:30,519
+584
+01:07:27,463 --> 01:07:30,569
 even though it's time to say goodbye
 
-535
-01:07:30,791 --> 01:07:36,543
+585
+01:07:30,791 --> 01:07:36,593
 I'll sing until the darkening night arrives
 

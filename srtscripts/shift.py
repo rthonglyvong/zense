@@ -7,7 +7,14 @@ def shift_srt_time(original_time, seconds_to_shift):
     time_format = "%H:%M:%S,%f"
     datetime_obj = datetime.strptime(original_time, time_format)
     shifted_time = datetime_obj + timedelta(seconds=seconds_to_shift)
+
+    # Handle milliseconds overflow
+    if shifted_time.microsecond >= 1000000:  # 1000000 microseconds = 1 second
+        shifted_time = shifted_time - timedelta(microseconds=1000000)
+        shifted_time = shifted_time + timedelta(seconds=1)
+
     return shifted_time.strftime(time_format)[:-3]  # omitting last 3 digits to keep 3 decimal precision
+
 
 def main():
     if len(sys.argv) != 3:

@@ -24,10 +24,11 @@ for root, dirs, files in os.walk(base_path):
             srt_info = extract_srt_info(srt_path)
             srt_info_list.extend(srt_info)
 
-srt_info_list.sort(key=itemgetter(0))
+srt_info_list.sort(key=itemgetter(1))
 
 combined_srt_path = os.path.join(script_dir, "combined.srt")
 
 with open(combined_srt_path, 'w', encoding='utf-8') as combined_srt_file:
-    for index, start_time, end_time, caption in srt_info_list:
-        combined_srt_file.write(f"{index}\n{start_time} --> {end_time}\n{caption}\n\n")
+    for i in range(len(srt_info_list)):
+        index, start_time, end_time, caption = srt_info_list[i]
+        combined_srt_file.write(f"{i + 1}\n{start_time} --> {end_time}\n{caption}\n\n")

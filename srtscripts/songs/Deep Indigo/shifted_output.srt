@@ -107,7 +107,7 @@ I intentionally discarded the present I dreamed of,
 and now I’m lying here waiting for 
 
 28
-00:05:08,069 --> 00:05:10,017
+00:05:08,569 --> 00:05:10,017
 its expiration date
 
 29
@@ -127,7 +127,7 @@ In my notebook, flowers swim in the corner of a faded night
 One more is in my eye
 
 33
-00:05:30,477 --> 00:05:33,601
+00:05:30,777 --> 00:05:33,601
 Life is just one compromise after another
 
 34
@@ -151,7 +151,7 @@ There are only eighty more characters in this song
 Because maybe the only value of a life 
 
 39
-00:05:47,829 --> 00:05:51,994
+00:05:46,129 --> 00:05:51,994
 is in the way it ends
 
 40
@@ -175,7 +175,7 @@ Deep indigo covers my eyes
 It’s just, it’s just…
 
 45
-00:06:25,622 --> 00:06:31,921
+00:06:25,922 --> 00:06:31,921
 In the distant sky I looked up at, you are cooling off
 
 46

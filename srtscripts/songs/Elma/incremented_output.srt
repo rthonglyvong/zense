@@ -55,7 +55,7 @@ you can become kinder
 Like this, in some far away country
 
 564
-01:05:04,255 --> 01:05:08,1001
+01:05:04,255 --> 01:05:08,999
 lying sprawled out in a shallow summer
 
 565
@@ -103,7 +103,7 @@ cramped rooms, cold nights
 sleepy afternoons, lonely mornings
 
 576
-01:06:24,878 --> 01:06:32,88
+01:06:24,878 --> 01:06:32,088
 in the words of farewell, I'm looking at your face
 
 577
@@ -111,7 +111,7 @@ in the words of farewell, I'm looking at your face
 Like this, in some far away country
 
 578
-01:06:47,807 --> 01:06:53,73
+01:06:47,807 --> 01:06:53,073
 lying sprawled out in a shallow summer
 
 579
